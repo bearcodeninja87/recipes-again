@@ -1,0 +1,64 @@
+body {
+    background-color: bisque;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 55px;
+    
+}
+
+.top {
+    display: flex;
+    justify-content: center;
+    flex-direction: column-reverse;
+    align-items: center;
+
+
+}
+
+.lightning {
+    max-height: 300px;
+    max-width: 600px;
+  
+    
+
+}
+
+.thricepics {
+   display: flex;
+    margin-top: 50px;
+    justify-content: space-around;
+}
+ 
+
+
+h2 {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.pic {
+    width: 250px;
+    object-fit: cover;
+    
+}
+
+.names {
+    display: flex;
+    justify-content: space-between;
+}
+
+.lists {
+    list-style: none;
+   
+}
+
+li {
+    margin-top: 10px;
+}
+
+h5 {
+    text-align: center;
+}
